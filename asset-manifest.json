@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/chris113377/SD260Assignment2/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/chris113377/SD260Assignment2/static/js/main.f7f666b5.chunk.js",
+    "main.js.map": "/chris113377/SD260Assignment2/static/js/main.f7f666b5.chunk.js.map",
+    "runtime-main.js": "/chris113377/SD260Assignment2/static/js/runtime-main.30a20598.js",
+    "runtime-main.js.map": "/chris113377/SD260Assignment2/static/js/runtime-main.30a20598.js.map",
+    "static/js/2.73306c6a.chunk.js": "/chris113377/SD260Assignment2/static/js/2.73306c6a.chunk.js",
+    "static/js/2.73306c6a.chunk.js.map": "/chris113377/SD260Assignment2/static/js/2.73306c6a.chunk.js.map",
+    "index.html": "/chris113377/SD260Assignment2/index.html",
+    "precache-manifest.f29fbb533b6783e9b8f0d2bdb39cfe09.js": "/chris113377/SD260Assignment2/precache-manifest.f29fbb533b6783e9b8f0d2bdb39cfe09.js",
+    "service-worker.js": "/chris113377/SD260Assignment2/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/chris113377/SD260Assignment2/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.73306c6a.chunk.js.LICENSE": "/chris113377/SD260Assignment2/static/js/2.73306c6a.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.30a20598.js",
+    "static/js/2.73306c6a.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.f7f666b5.chunk.js"
+  ]
+}
