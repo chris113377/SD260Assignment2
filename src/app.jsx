@@ -1,5 +1,8 @@
 import React, { Component } from 'react';
 
+import Header from './header'
+import DisplayItem from './displayItem'
+
 class App extends Component {
   constructor(props) {
     super(props);
@@ -7,9 +10,10 @@ class App extends Component {
   }
   render() { 
     return ( 
-      <React.Fragment>
-        
-      </React.Fragment>
+      <div className="app">
+        <Header />
+        <DisplayItem />
+      </div>
      );
   }
 }

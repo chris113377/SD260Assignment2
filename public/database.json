@@ -1,0 +1,26 @@
+[
+  {
+    "image": "some image",
+    "name": "Gears 5",
+    "date": "2019",
+    "developer": "Microsoft"
+  },
+  {
+    "image": "some image",
+    "name": "Forza Horizon 4",
+    "date": "2019",
+    "developer": "Microsoft"
+  },
+  {
+    "image": "./src/images/ACOdyssey.png",
+    "name": "Assassin's Creed Odyssey",
+    "date": "2018",
+    "developer": "Ubisoft"
+  },
+  {
+    "image": "some image",
+    "name": "League of Legends",
+    "date": "2009",
+    "developer": "Riot Games"
+  }
+]
