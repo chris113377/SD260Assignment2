@@ -4,4 +4,4 @@
 
 ## Please click on the button to submit your vote 
 
-![Snap shot](./guide.png)
+![Snap shot](./public/guide.png)
