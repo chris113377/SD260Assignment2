@@ -1,8 +1,6 @@
 import React from 'react';
 
 const Item = (props) => {
-  console.log(props);
-  // props.itemsToDisplay && Math.max(...props.itemsToDisplay.map(s => s.votes));
   return ( 
     <div>
     {props.itemsToDisplay && props.itemsToDisplay.map(elem => {
