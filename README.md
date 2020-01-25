@@ -8,6 +8,4 @@
 
 ![Snap shot](/guide.png)
 
-![Snap shot](guide.png)
-
-
+![Snap shot](https://raw.githubusercontent.com/chris113377/SD260Assignment2/master/guide.png)
