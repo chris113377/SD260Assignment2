@@ -21,7 +21,7 @@
   },
   {
     "id": 3,
-    "image": "https://en.wikipedia.org/wiki/File:ACOdysseyCoverArt.png",
+    "image": "./ACOdyssey.png",
     "title": "Assassin's Creed Odyssey",
     "date": "2018",
     "developer": "Ubisoft",
