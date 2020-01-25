@@ -4,9 +4,8 @@
 
 ## Please click on the button to submit your vote 
 
-![Snap shot](./guide.png)
 
-![Snap shot](/guide.png)
+![Snap shot](https://raw.githubusercontent.com/chris113377/SD260Assignment2/master/guide.PNG)
 
 ![Snap shot](guide.png)
 
