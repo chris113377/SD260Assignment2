@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/chris113377/SD260Assignment2/static/css/main.6e40a46a.chunk.css",
-    "main.js": "/chris113377/SD260Assignment2/static/js/main.4c5b4434.chunk.js",
-    "main.js.map": "/chris113377/SD260Assignment2/static/js/main.4c5b4434.chunk.js.map",
-    "runtime-main.js": "/chris113377/SD260Assignment2/static/js/runtime-main.30a20598.js",
-    "runtime-main.js.map": "/chris113377/SD260Assignment2/static/js/runtime-main.30a20598.js.map",
-    "static/js/2.ee414ade.chunk.js": "/chris113377/SD260Assignment2/static/js/2.ee414ade.chunk.js",
-    "static/js/2.ee414ade.chunk.js.map": "/chris113377/SD260Assignment2/static/js/2.ee414ade.chunk.js.map",
-    "index.html": "/chris113377/SD260Assignment2/index.html",
-    "precache-manifest.3da5f41cdae4010cd3c7840f6ca1f3d8.js": "/chris113377/SD260Assignment2/precache-manifest.3da5f41cdae4010cd3c7840f6ca1f3d8.js",
-    "service-worker.js": "/chris113377/SD260Assignment2/service-worker.js",
-    "static/css/main.6e40a46a.chunk.css.map": "/chris113377/SD260Assignment2/static/css/main.6e40a46a.chunk.css.map",
-    "static/js/2.ee414ade.chunk.js.LICENSE": "/chris113377/SD260Assignment2/static/js/2.ee414ade.chunk.js.LICENSE"
+    "main.css": "/SD260Assignment2/static/css/main.6e40a46a.chunk.css",
+    "main.js": "/SD260Assignment2/static/js/main.7c495ba0.chunk.js",
+    "main.js.map": "/SD260Assignment2/static/js/main.7c495ba0.chunk.js.map",
+    "runtime-main.js": "/SD260Assignment2/static/js/runtime-main.835569f1.js",
+    "runtime-main.js.map": "/SD260Assignment2/static/js/runtime-main.835569f1.js.map",
+    "static/js/2.ee414ade.chunk.js": "/SD260Assignment2/static/js/2.ee414ade.chunk.js",
+    "static/js/2.ee414ade.chunk.js.map": "/SD260Assignment2/static/js/2.ee414ade.chunk.js.map",
+    "index.html": "/SD260Assignment2/index.html",
+    "precache-manifest.1e08df0131bf7be5adfd794b8fe69efe.js": "/SD260Assignment2/precache-manifest.1e08df0131bf7be5adfd794b8fe69efe.js",
+    "service-worker.js": "/SD260Assignment2/service-worker.js",
+    "static/css/main.6e40a46a.chunk.css.map": "/SD260Assignment2/static/css/main.6e40a46a.chunk.css.map",
+    "static/js/2.ee414ade.chunk.js.LICENSE": "/SD260Assignment2/static/js/2.ee414ade.chunk.js.LICENSE"
   },
   "entrypoints": [
-    "static/js/runtime-main.30a20598.js",
+    "static/js/runtime-main.835569f1.js",
     "static/js/2.ee414ade.chunk.js",
     "static/css/main.6e40a46a.chunk.css",
-    "static/js/main.4c5b4434.chunk.js"
+    "static/js/main.7c495ba0.chunk.js"
   ]
 }
