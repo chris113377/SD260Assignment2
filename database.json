@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "image": "https://picsum.photos/198",
+    "image": "./Gears5.png",
     "title": "Gears 5",
     "date": "2019",
     "developer": "Microsoft",
@@ -11,7 +11,7 @@
   },
   {
     "id": 2,
-    "image": "https://picsum.photos/199",
+    "image": "./Forza.png",
     "title": "Forza Horizon 4",
     "date": "2019",
     "developer": "Microsoft",
@@ -31,7 +31,7 @@
   },
   {
     "id": 4,
-    "image": "https://picsum.photos/201",
+    "image": "./League.png",
     "title": "League of Legends",
     "date": "2009",
     "developer": "Riot Games",
