@@ -19,3 +19,38 @@
   background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(253,187,45,1) 100%);
   margin-bottom: 100px;
 }
+
+.post {
+  display: flex;
+  margin-bottom: 30px;
+  margin-left: 40px;
+}
+
+.item-description {
+  margin-left: 30px;
+}
+
+.item-button {
+  width: 100px;
+  height: 50px;
+  margin-bottom: 20px;
+  background-color: cadetblue;
+  color: beige;
+  border-radius: 20px;
+  border: none;
+  font-size: large;
+}
+
+.item-link {
+  color: cadetblue;
+  margin-bottom: 20px;
+  text-decoration: none;
+}
+
+.item-date-dev {
+  margin-bottom: 20px;
+}
+
+.item-submitter {
+  color: grey;
+}

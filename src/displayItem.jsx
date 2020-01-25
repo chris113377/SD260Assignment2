@@ -1,38 +1,41 @@
 import React, { Component } from 'react';
 
-// import jsonData from "./src/database.json";
+import Item from "./item";
 
 class DisplayItem extends Component {
   constructor(props) {
     super(props);
     this.state = { 
-      items: {}
+      items: ''
      }
   }
 
-  fetchData() {
+  componentDidMount() {
     fetch("/database.json")
       .then(response => response.json())
       .then(json => this.setState({items: json}, console.log(json)))
       .catch(error => console.error(error));
   }
 
-
+  addVote = (itemID) => {
+    console.log(itemID)
+    this.setState({votes: this.state.items.map(item => {
+      if (item.id === itemID) {
+        item.votes = item.votes + 1
+      }
+      return item;
+    })})
+    this.state.items.sort((a, b) => Number(b.votes) - Number(a.votes));
+    console.log("descending", this.state.items);
+  }
 
   render() { 
-    
-    console.log(this.state.items)
     return ( 
       <div className="post">
-        {/* {this.state.items.map(elem => {
-          return(
-            <React.Fragment key={elem.name}>
-            <img src="https://picsum.photos/30/30" alt=""></img>
-            <h3 className="timestamp">Posted</h3>
-            <p className="bubble">{elem.name}</p>
-            </React.Fragment>
-          )
-        })} */}
+        <Item 
+          itemsToDisplay={this.state.items} 
+          addVote={this.addVote}
+          />
       </div>
      );
   }
