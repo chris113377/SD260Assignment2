@@ -11,14 +11,13 @@ class DisplayItem extends Component {
   }
 
   componentDidMount() {
-    fetch("/database.json")
+    fetch("./database.json")
       .then(response => response.json())
       .then(json => this.setState({items: json}, console.log(json)))
       .catch(error => console.error(error));
   }
 
   addVote = (itemID) => {
-    console.log(itemID)
     this.setState({votes: this.state.items.map(item => {
       if (item.id === itemID) {
         item.votes = item.votes + 1
@@ -26,7 +25,6 @@ class DisplayItem extends Component {
       return item;
     })})
     this.state.items.sort((a, b) => Number(b.votes) - Number(a.votes));
-    console.log("descending", this.state.items);
   }
 
   render() { 
