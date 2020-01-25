@@ -7,4 +7,4 @@
 
 ![Snap shot](https://raw.githubusercontent.com/chris113377/SD260Assignment2/master/guide.PNG)
 
-![Snap shot](https://raw.githubusercontent.com/chris113377/SD260Assignment2/master/guide.png)
+
