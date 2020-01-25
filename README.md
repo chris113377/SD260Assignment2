@@ -8,8 +8,6 @@
 
 ![Snap shot](/guide.png)
 
-![Snap shot](/public/guide.png)
-
-![Snap shot](./public/guide.png)
-
 ![Snap shot](guide.png)
+
+
