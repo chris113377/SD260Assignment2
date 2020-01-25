@@ -1,26 +1,42 @@
 [
   {
-    "image": "some image",
-    "name": "Gears 5",
+    "id": 1,
+    "image": "https://picsum.photos/198",
+    "title": "Gears 5",
     "date": "2019",
-    "developer": "Microsoft"
+    "developer": "Microsoft",
+    "url": "https://en.wikipedia.org/wiki/Gears_5",
+    "submitter": "Jill",
+    "votes": 0
   },
   {
-    "image": "some image",
-    "name": "Forza Horizon 4",
+    "id": 2,
+    "image": "https://picsum.photos/199",
+    "title": "Forza Horizon 4",
     "date": "2019",
-    "developer": "Microsoft"
+    "developer": "Microsoft",
+    "url": "https://en.wikipedia.org/wiki/Forza_Horizon_4",
+    "submitter": "Bob",
+    "votes": 0
   },
   {
-    "image": "./src/images/ACOdyssey.png",
-    "name": "Assassin's Creed Odyssey",
+    "id": 3,
+    "image": "https://picsum.photos/200",
+    "title": "Assassin's Creed Odyssey",
     "date": "2018",
-    "developer": "Ubisoft"
+    "developer": "Ubisoft",
+    "url": "https://en.wikipedia.org/wiki/Assassin%27s_Creed_Odyssey",
+    "submitter": "Pedro",
+    "votes": 0
   },
   {
-    "image": "some image",
-    "name": "League of Legends",
+    "id": 4,
+    "image": "https://picsum.photos/201",
+    "title": "League of Legends",
     "date": "2009",
-    "developer": "Riot Games"
+    "developer": "Riot Games",
+    "url": "https://en.wikipedia.org/wiki/League_of_Legends",
+    "submitter": "Zane",
+    "votes": 0
   }
 ]
